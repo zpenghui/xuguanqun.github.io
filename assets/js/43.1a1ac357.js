@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{226:function(o,n,e){"use strict";e.r(n),n.default={second:"秒",hour:"时",min:"分钟",day:"日",week:"星期","from now":"现在","months ago":"个月前","years ago":"年前","to read":"阅读","minutes to finish":"分钟结束"}}}]);
